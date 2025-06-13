@@ -1,0 +1,10 @@
+Add quotes in this format in the text.txt file without leaving any line
+
+
+
+"Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+"Start where you are. Use what you have. Do what you can." - Arthur Ashe
+
+
+
+Make sure that the seperator of quote and author is seperated by dash(-) not em dash(–)
