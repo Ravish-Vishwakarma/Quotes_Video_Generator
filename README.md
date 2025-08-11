@@ -4,3 +4,5 @@
 # Requirements
 1. ffmpeg library - `pip install ffmpeg-python`
 2. ffmpeg source code - [Download link](https://ffmpeg.org/download.html)
+
+> Buy Executable -> https://ravishvish.gumroad.com/l/deepmeaninggen
